@@ -1,0 +1,17 @@
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\bin\Debug\net10.0-windows\CMPT291Lab1Check.exe
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\bin\Debug\net10.0-windows\CMPT291Lab1Check.deps.json
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\bin\Debug\net10.0-windows\CMPT291Lab1Check.runtimeconfig.json
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\bin\Debug\net10.0-windows\CMPT291Lab1Check.dll
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\bin\Debug\net10.0-windows\CMPT291Lab1Check.pdb
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.Form1.resources
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.csproj.GenerateResource.cache
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.AssemblyInfoInputs.cache
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.AssemblyInfo.cs
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.csproj.CoreCompileInputs.cache
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.dll
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\refint\CMPT291Lab1Check.dll
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.pdb
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291Lab1Check.genruntimeconfig.cache
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\ref\CMPT291Lab1Check.dll
+C:\Users\tanve\OneDrive\Desktop\CMPT291_Lab1_Setup\src\CMPT291Lab1Check\obj\Debug\net10.0-windows\CMPT291L.E575D1C3.Up2Date

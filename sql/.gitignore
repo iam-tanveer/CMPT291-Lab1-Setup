@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.mdf
+*.ldf
+.env
+secrets.json
+appsettings.Local.json
